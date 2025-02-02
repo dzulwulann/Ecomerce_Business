@@ -84,8 +84,8 @@ Through this project, we gained valuable insights into customer behavior, produc
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email:** yourname@email.com  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **Email:** dzulwulann@gmail.com  
+- **LinkedIn:** [Dzul Wulan Ningtyas](https://www.linkedin.com/in/dzulwulan/)  
 
 ---
 
