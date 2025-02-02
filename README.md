@@ -18,12 +18,14 @@ By breaking down these aspects, we gain insights into customer behavior, product
 
 ## 📊 Data Overview
 
-The dataset used in this project includes transaction records from an e-commerce platform, featuring information such as:
-
-- **Customer IDs** and **demographics**
-- **Product categories** and **sales figures**
-- **Payment types** used for transactions
-- **Transaction dates** and **order statuses**
+The dataset used in this project includes transaction records from an e-commerce platform.
+There are seven table included in this dataset, such as : 
+- **Customers** : Customer data and demographic
+- **Orders** : Including details of the order transaction, such as order_id, order_status, time etc.
+- **Order_payments** : include paymments details of each order that've been made.
+- **Products** : details of the selling products, included product_id.
+- **sellers** : the data of sellers
+- **geolocation** : details of geolocation data
 
 The data was cleaned and prepared using SQL queries to ensure accuracy and consistency before performing the analysis.
 
