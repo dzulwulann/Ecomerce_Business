@@ -35,9 +35,12 @@ The data was cleaned and prepared using SQL queries to ensure accuracy and consi
 
 In this section, I analyzed customer activity over the years to identify growth trends. Key points include:
 
-- **New vs. Returning Customers:** Tracking the increase in new customer sign-ups and retention rates.
-- **Year-over-Year Growth:** Measuring changes in the number of active customers annually.
-- **Customer Segmentation:** Categorizing customers based on purchasing frequency and spending habits.
+- **Monthly active user by year:** Measuring changes in the number of active customers annually.
+- **Year-over-Year New Customer Growth:** Tracking the increase in new customer sign-ups.
+<p align="center">
+<img src="./images/Increasing MAU & New User.png" alt="drawing"/>
+</p>
+ The data for 2016 is very limited, so I decided to compare only from 2017 to 2018. The visualization shows that user activity and the number of new users are increasing each year. This suggests increased engagement and successful customer acquisition during this period.
 
 ---
 
