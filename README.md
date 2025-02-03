@@ -51,7 +51,7 @@ This analysis focuses on evaluating the performance of different product categor
 - **Revenue Contribution:** Determining which categories contribute most significantly to annual revenue.
 - **Top-Selling Categories:** Identifying products with the highest sales volume.
 - **Top Canceled Categories:** Identifying products with the highest canceled status. 
-<div style="display: flex;"> 
+<div style="display: flex; align=center"> 
 
   <div><img src="./images/Total Revenue by year.png" alt="drawing" height = 350 width = 500/></div>
 
@@ -59,6 +59,12 @@ This analysis focuses on evaluating the performance of different product categor
 </div>
 
 The visualization highlights the product categories contributing most to the company’s revenue. Each year, a **different category** leads in revenue generation. In 2018, **Watches Gifts** emerged as the top contributor, driving a significant portion of total sales. Despite these shifts, the company's overall revenue showed steady growth year over year.
+
+<p align="center">
+<img src="./images/Most Canceled Categories.png" alt="drawing"/>
+</p>
+
+For the most canceled category leads to a different category each year. In the 2017, the category that gives the highest contribution for the revenue and the most canceled category is the same category, **Sport Leaisure**. It can indicate that on that year that spesific category has the highest transaction traffic. But we should check more for this insight. 
 
 ---
 
