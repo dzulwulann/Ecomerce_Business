@@ -47,10 +47,18 @@ In this section, I analyzed customer activity over the years to identify growth 
 ## 🌟 Annual Product Category Quality Analysis
 
 This analysis focuses on evaluating the performance of different product categories. Key insights include:
-
-- **Top-Selling Categories:** Identifying products with the highest sales volume.
-- **Customer Feedback & Returns:** Analyzing return rates and customer reviews to assess product quality.
+- **Total Revenue Annually:** Determining total annual revenue.
 - **Revenue Contribution:** Determining which categories contribute most significantly to annual revenue.
+- **Top-Selling Categories:** Identifying products with the highest sales volume.
+- **Top Canceled Categories:** Identifying products with the highest canceled status. 
+<div style="display: flex;"> 
+
+  <div><img src="./images/Total Revenue by year.png" alt="drawing" height = 350 width = 500/></div>
+
+  <div><img src=".\images\Top Categories Revenue.png" alt="drawing" height = 350 width = 500/></div>
+</div>
+
+ The visualization highlights the product categories contributing most to the company’s revenue. In 2018, Watches Gifts emerged as the top contributor, driving a significant portion of total sales. The company's overall revenue showed steady growth year over year 
 
 ---
 
