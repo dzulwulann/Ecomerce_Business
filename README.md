@@ -58,7 +58,7 @@ This analysis focuses on evaluating the performance of different product categor
   <div><img src=".\images\Top Categories Revenue.png" alt="drawing" height = 350 width = 500/></div>
 </div>
 
- The visualization highlights the product categories contributing most to the company’s revenue. In 2018, Watches Gifts emerged as the top contributor, driving a significant portion of total sales. The company's overall revenue showed steady growth year over year 
+The visualization highlights the product categories contributing most to the company’s revenue. Each year, a **different category** leads in revenue generation. In 2018, **Watches Gifts** emerged as the top contributor, driving a significant portion of total sales. Despite these shifts, the company's overall revenue showed steady growth year over year.
 
 ---
 
