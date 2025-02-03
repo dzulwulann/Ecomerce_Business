@@ -64,7 +64,7 @@ The visualization highlights the product categories contributing most to the com
 <img src="./images/Most Canceled Categories.png" alt="drawing"/>
 </p>
 
-For the most canceled category leads to a different category each year. In the 2017, the category that gives the highest contribution for the revenue and the most canceled category is the same category, **Sport Leaisure**. It can indicate that on that year that spesific category has the highest transaction traffic. But we should check more for this insight. 
+The category with the most cancellations changes from year to year. In 2017, the category that contributed the most to revenue was also the most canceled category: **Sport Leisure**. This could indicate that this specific category experienced the highest transaction volume that year. However, further analysis is needed to confirm this insight.
 
 ---
 
