@@ -79,8 +79,8 @@ Understanding payment preferences is crucial for enhancing user experience. In t
 <img src="./images/Payment type.png" alt="drawing"/>
 </p>
 
-Credit Card is the most popular payment that is used by user for transaction. We need to analyze futher about user's behavior in using credit card, such as tenor, limit of the payment etc.
-Other insight that we should highlight also the number of credit card's user from 2017 to 2018 was increasing more than 100%. While on the other hand, The number of user that used voucher were decreased from 2017 to 2018. 
+**Credit Card** is the most popular payment that is used by user for transaction. We need to analyze futher about user's behavior in using credit card, such as tenor, limit of the payment etc.
+Other insight that we should highlight also the number of credit card's user from 2017 to 2018 was **increasing** more than 100%. While on the other hand, The number of user that used voucher were **decreased** from 2017 to 2018. 
 
 ---
 
@@ -101,7 +101,7 @@ Other insight that we should highlight also the number of credit card's user fro
 
 ## 📢 Conclusion
 
-Through this project, we gained valuable insights into customer behavior, product performance, and payment preferences. These insights can help e-commerce businesses make data-driven decisions to enhance growth and optimize operations.
+Through this project, we gained valuable insights into customer behavior, product performance, and payment preferences. These insights can help e-commerce businesses make data-driven decisions to enhance growth and optimize operations. 
 
 ---
 
